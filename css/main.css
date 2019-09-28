@@ -294,8 +294,12 @@ h1 span:first-child {
   margin-right: 300px;
 }
 
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
 p {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Space Mono', Consolas, monospace;
 }
 
 .overview {
@@ -341,8 +345,7 @@ header {
   -moz-appearance: none;
 }
 
-.ctaContainer a:hover,
-.ctaContainer a:focus {
+.ctaContainer a:hover {
   background: yellow;
   color: black;
 }
