@@ -341,8 +341,7 @@ header {
   -moz-appearance: none;
 }
 
-.ctaContainer a:hover,
-.ctaContainer a:focus {
+.ctaContainer a:hover {
   background: yellow;
   color: black;
 }
